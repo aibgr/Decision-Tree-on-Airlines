@@ -16,7 +16,7 @@ Professional implementation of Decision Trees and Random Forests with comprehens
 | Wine    | Random Forest    | **96.6%** |
 
 ## Project Report
-[Download Full PDF Report](AI%20Decision%20Tree%20Project%20Report.pdf) (English + Persian – 20 pages)
+[Download Full PDF Report]([AI%20Decision%20Tree%20Project%20Report.pdf](https://github.com/aibgr/Decision-Tree-on-Airlines/blob/main/AI%20Descision%20Tree%20Project%20Report.pdf)) (Persian – 1 pages)
 
 **Executive Summary (from Report):**  
 This project explores Decision Tree classifiers using CART algorithm on UCI datasets (Iris, Wine). Key experiments include hyperparameter tuning (max_depth: 3-10, min_samples_split: 2-5), cross-validation (5-fold), and ensemble methods like Random Forest (n_estimators: 100-200). Results show Random Forest outperforming single trees by 3-5% in accuracy, precision, recall, and F1-score. Visualizations cover tree structures, confusion matrices, and ROC curves. Conclusions highlight interpretability vs. overfitting trade-offs, with code optimized for reproducibility.
